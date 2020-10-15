@@ -41,6 +41,12 @@ Steps to code for redux
 
 4. Write the store.
 5. Create root-reducer
-   - THie root-reducer combines all of the states.
-   
+   - The root-reducer combines all of the states.
+6. Create individual reucers with action and state.
+7. Bring up the individual reducers into the root reducer.
+8. Middleware: Middleware used between the action and the root reducer.
+               Middleware is a logger.
+  
+
+
 
